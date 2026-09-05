@@ -195,7 +195,3 @@ output/
 - python-dotenv
 
 ---
-
-## ⚠️ Note
-
-Do not commit API keys or private documents to GitHub. Use `.gitignore` for `.env` and any private data.
